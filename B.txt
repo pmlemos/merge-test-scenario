@@ -1,0 +1,5 @@
+file B.txt
+test1
+test2
+test3
+
